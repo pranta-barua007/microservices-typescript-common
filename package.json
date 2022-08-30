@@ -1,6 +1,6 @@
 {
   "name": "@prbtickets/common",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "> TODO: description",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
